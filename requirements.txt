@@ -1,3 +1,5 @@
 unsloth
 datasets
 torch
+wandb
+# bitsandbytes
